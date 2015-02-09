@@ -1,0 +1,6227 @@
+Server started
+Connection wait...
+Client1 connected
+Client2 connected
+Client3 connected
+Server started
+Connection wait...
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client1 connected
+Client2 connected
+Client disconnect
+Client disconnect
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client1 connected
+Client disconnect
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client1 connected
+Client2 connected
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client1 connected
+Client disconnect
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client1 connected
+Client disconnect
+Client2 connected
+Client disconnect
+Client3 connected
+Client disconnect
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client1 connected
+Client2 connected
+Client3 connected
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client1 connected
+Client disconnect
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client1 connected
+Client2 connected
+Client3 connected
+Server started
+Connection wait...
+Client1 connected
+Client2 connected
+Server started
+Connection wait...
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client1 connected
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Client2 connected
+Client disconnect
+Client3 connected
+Client disconnect
+Client4 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Client2 connected
+Client disconnect
+Client3 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Client2 connected
+Client disconnect
+Client3 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  null
+Client disconnect
+Client1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client2 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client3 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client4 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client5 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client6 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client7 connected
+Error initialization clients streams:  null
+Client disconnect
+Client8 connected
+Error initialization clients streams:  null
+Client disconnect
+Client9 connected
+Client disconnect
+Client10 connected
+Client disconnect
+Client11 connected
+Client12 connected
+Client disconnect
+Client13 connected
+Client disconnect
+Client14 connected
+Client disconnect
+Client15 connected
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Client disconnect
+Client2 connected
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client3 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client4 connected
+Client5 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client6 connected
+Client7 connected
+Client8 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client9 connected
+Client10 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client11 connected
+Client12 connected
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Client2 connected
+Client disconnect
+Client3 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Client2 connected
+Client disconnect
+Client3 connected
+Client disconnect
+Client4 connected
+Client disconnect
+Client5 connected
+Client disconnect
+Client6 connected
+Client disconnect
+Client7 connected
+Client disconnect
+Client8 connected
+Client disconnect
+Client9 connected
+Client disconnect
+Client10 connected
+Client disconnect
+Client11 connected
+Client disconnect
+Client12 connected
+Client disconnect
+Client13 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Client2 connected
+Client disconnect
+Client3 connected
+Client disconnect
+Client4 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Client2 connected
+Client disconnect
+Client disconnect
+Client disconnect
+Client3 connected
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Client2 connected
+Client3 connected
+Client4 connected
+Client5 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client6 connected
+Client disconnect
+Client7 connected
+Client8 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client9 connected
+Client disconnect
+Client10 connected
+Client disconnect
+Client11 connected
+Client disconnect
+Client12 connected
+Client disconnect
+Client13 connected
+Client disconnect
+Client14 connected
+Client disconnect
+Client15 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  null
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  invalid stream header: 73720010
+Client disconnect
+Client1 connected
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  null
+Error initialization clients streams:  null
+Error initialization clients streams:  null
+Error initialization clients streams:  null
+Client1 connected
+Error initialization clients streams:  null
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Server started
+Connection wait...
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client2 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Error initialization clients streams:  null
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Server internal error Address already in use: JVM_Bind
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  null
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  null
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  null
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  null
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  null
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  null
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  null
+Client disconnect
+Client1 connected
+Error initialization clients streams:  null
+Client disconnect
+Client2 connected
+Error initialization clients streams:  null
+Client disconnect
+Client3 connected
+Server started
+Connection wait...
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  invalid type code: 00
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Error initialization clients streams:  Software caused connection abort: recv failed
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Error initialization clients streams:  Software caused connection abort: recv failed
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server internal error Address already in use: JVM_Bind
+Server internal error Address already in use: JVM_Bind
+Server internal error Address already in use: JVM_Bind
+Server internal error Address already in use: JVM_Bind
+Server internal error Address already in use: JVM_Bind
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client2 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server internal error Address already in use: JVM_Bind
+Client3 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server internal error Address already in use: JVM_Bind
+Client4 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client2 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client3 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client4 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client5 connected
+Client6 connected
+Error initialization clients streams:  null
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client2 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client1 connected
+Client2 connected
+Error initialization clients streams:  null
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client3 connected
+Client4 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client2 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client3 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client4 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client5 connected
+Client6 connected
+Error initialization clients streams:  null
+Client disconnect
+Client7 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client8 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client2 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client3 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client4 connected
+Client5 connected
+Error initialization clients streams:  null
+Client disconnect
+Client6 connected
+Client7 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  Unrecognized Windows Sockets error: 0: recv failed
+Client disconnect
+Client8 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client9 connected
+Client10 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client1 connected
+Error initialization clients streams:  null
+Client disconnect
+Client2 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  null
+Client disconnect
+Client1 connected
+Error initialization clients streams:  null
+Client disconnect
+Client2 connected
+Error initialization clients streams:  null
+Client disconnect
+Client3 connected
+Client4 connected
+Error initialization clients streams:  null
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Client2 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client3 connected
+Client4 connected
+Error initialization clients streams:  null
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client5 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Server started
+Connection wait...
+Server started
+Connection wait...
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Server started
+Connection wait...
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Client2 connected
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Client2 connected
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Client2 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Client2 connected
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client3 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Client2 connected
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client2 connected
+Client3 connected
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Client2 connected
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client3 connected
+Client4 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Client2 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client2 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Client2 connected
+Client disconnect
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Client disconnect
+Client2 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Client disconnect
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client2 connected
+Client3 connected
+Error initialization clients streams:  Connection reset
+Client thread error:  Connection reset by peer: socket write error
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Client2 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Client2 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client3 connected
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Client2 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Client2 connected
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Client2 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Client disconnect
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Client disconnect
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Server started
+Connection wait...
+Server internal error Address already in use: JVM_Bind
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  writing aborted; java.io.NotSerializableException: tableinfo.TableInfo
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client2 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Client2 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Server internal error Address already in use: JVM_Bind
+Server internal error Address already in use: JVM_Bind
+Server internal error Address already in use: JVM_Bind
+Server internal error Address already in use: JVM_Bind
+Server internal error Address already in use: JVM_Bind
+Server internal error Address already in use: JVM_Bind
+Server internal error Address already in use: JVM_Bind
+Server internal error Address already in use: JVM_Bind
+Server internal error Address already in use: JVM_Bind
+Server internal error Address already in use: JVM_Bind
+Server internal error Address already in use: JVM_Bind
+Server started
+Connection wait...
+Server internal error Address already in use: JVM_Bind
+Server started
+Connection wait...
+Server started
+Connection wait...
+Server internal error Address already in use: JVM_Bind
+Server internal error Address already in use: JVM_Bind
+Server internal error Address already in use: JVM_Bind
+Server internal error Address already in use: JVM_Bind
+Server internal error Address already in use: JVM_Bind
+Server internal error Address already in use: JVM_Bind
+Server started
+Connection wait...
+Server internal error Address already in use: JVM_Bind
+Server internal error Address already in use: JVM_Bind
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client2 connected
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client2 connected
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Client2 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client thread error:  Connection reset by peer: socket write error
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Client2 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Client2 connected
+Client disconnect
+Client3 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Client2 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Client2 connected
+Client disconnect
+Client3 connected
+Client disconnect
+Client4 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Client2 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  null
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Client0 connected
+Client1 connected
+Client thread error:  Software caused connection abort: socket write error
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Server internal error Address already in use: JVM_Bind
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Client0 connected
+Server started
+Connection wait...
+Server internal error Address already in use: JVM_Bind
+Server started
+Connection wait...
+Client0 connected
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Server started
+Connection wait...
+Client0 connected
+Client disconnect
+Client1 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Server internal error Address already in use: JVM_Bind
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Player3 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Server internal error Address already in use: JVM_Bind
+Server internal error Address already in use: JVM_Bind
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Server started
+Connection wait...
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Server internal error Address already in use: JVM_Bind
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server internal error Address already in use: JVM_Bind
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Player3 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Error initialization clients streams:  null
+Player2 connected
+Client disconnect
+Player3 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Player6 connected
+Client disconnect
+Player7 connected
+Client disconnect
+Player8 connected
+Client disconnect
+Player9 connected
+Client disconnect
+Player10 connected
+Client disconnect
+Player11 connected
+Client disconnect
+Player12 connected
+Client disconnect
+Player13 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server internal error Address already in use: JVM_Bind
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server internal error Address already in use: JVM_Bind
+Player3 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Player6 connected
+Client disconnect
+Player7 connected
+Client disconnect
+Player8 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Player6 connected
+Client disconnect
+Player7 connected
+Client disconnect
+Player8 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  javax.swing.JLabel cannot be cast to java.lang.Integer
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  javax.swing.JLabel cannot be cast to java.lang.Integer
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  javax.swing.JLabel cannot be cast to java.lang.Integer
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  javax.swing.JLabel cannot be cast to java.lang.String
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server internal error Address already in use: JVM_Bind
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server internal error Address already in use: JVM_Bind
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Server internal error Address already in use: JVM_Bind
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Player3 connected
+Player4 connected
+Player5 connected
+Client disconnect
+Client disconnect
+Client disconnect
+Player6 connected
+Client disconnect
+Player7 connected
+Client disconnect
+Player8 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server internal error Address already in use: JVM_Bind
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server internal error Address already in use: JVM_Bind
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Player1 connected
+Player2 connected
+Client disconnect
+Client disconnect
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Server internal error Address already in use: JVM_Bind
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Server internal error Address already in use: JVM_Bind
+Player6 connected
+Client disconnect
+Player7 connected
+Client disconnect
+Player8 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Player1 connected
+Player2 connected
+Client disconnect
+Client disconnect
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Player3 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  For input string: ""
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Server internal error Address already in use: JVM_Bind
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  For input string: ""
+Server internal error Address already in use: JVM_Bind
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  For input string: ""
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Player2 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Player2 connected
+Client disconnect
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Player2 connected
+Client disconnect
+Player3 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Player4 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Player5 connected
+Error initialization clients streams:  null
+Client disconnect
+Player6 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Player7 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Player8 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Player2 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Player3 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Player4 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Player1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Player2 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Player3 connected
+Client disconnect
+Player4 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Player5 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Player6 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Player7 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Player8 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Player9 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Player2 connected
+Client disconnect
+Player3 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Player4 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Player5 connected
+Client disconnect
+Player6 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Player6 connected
+Client disconnect
+Player7 connected
+Client disconnect
+Player8 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Player3 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server internal error Address already in use: JVM_Bind
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server internal error Address already in use: JVM_Bind
+Player3 connected
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Player1 connected
+Client disconnect
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server internal error Address already in use: JVM_Bind
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Server internal error Address already in use: JVM_Bind
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server internal error Address already in use: JVM_Bind
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Server internal error Address already in use: JVM_Bind
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Error initialization clients streams:  null
+Player5 connected
+Client disconnect
+Player6 connected
+Client disconnect
+Player7 connected
+Client disconnect
+Error initialization clients streams:  null
+Player8 connected
+Client disconnect
+Player9 connected
+Client disconnect
+Player10 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server internal error Address already in use: JVM_Bind
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  Index: 0, Size: 0
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  Index: 0, Size: 0
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  Index: 0, Size: 0
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  Index: 0, Size: 0
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  -1
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  -1
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Player3 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server internal error Address already in use: JVM_Bind
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server internal error Address already in use: JVM_Bind
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Player1 connected
+Client disconnect
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  java.lang.Integer cannot be cast to playermove.PlayerMove
+Server started
+Connection wait...
+Player0 connected
+Player1 connected
+Player2 connected
+Client disconnect
+Client disconnect
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  java.lang.Integer cannot be cast to java.lang.String
+Server internal error Address already in use: JVM_Bind
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  For input string: "ПАС"
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  For input string: "ПАС"
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  For input string: "ПАС"
+Player6 connected
+Client disconnect
+Player7 connected
+Client disconnect
+Player8 connected
+Client disconnect
+Error initialization clients streams:  For input string: "ПАС"
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  For input string: "ПАС"
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Player6 connected
+Client disconnect
+Player7 connected
+Client disconnect
+Player8 connected
+Client disconnect
+Error initialization clients streams:  null
+Player9 connected
+Client disconnect
+Player10 connected
+Client disconnect
+Player11 connected
+Client disconnect
+Error initialization clients streams:  null
+Player12 connected
+Client disconnect
+Player13 connected
+Client disconnect
+Player14 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Player6 connected
+Client disconnect
+Player7 connected
+Client disconnect
+Player8 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Player1 connected
+Player2 connected
+Client disconnect
+Client disconnect
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Player1 connected
+Player2 connected
+Client disconnect
+Client disconnect
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Player2 connected
+Client disconnect
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Player1 connected
+Player2 connected
+Client disconnect
+Client disconnect
+Error initialization clients streams:  Unrecognized Windows Sockets error: 0: recv failed
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Player1 connected
+Player2 connected
+Client disconnect
+Client disconnect
+Client disconnect
+Error initialization clients streams:  java.lang.String cannot be cast to playermove.PlayerMove
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Server internal error Address already in use: JVM_Bind
+Player0 connected
+Player1 connected
+Player2 connected
+Client disconnect
+Error initialization clients streams:  Unrecognized Windows Sockets error: 0: recv failed
+Client disconnect
+Error initialization clients streams:  Unrecognized Windows Sockets error: 0: recv failed
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Player6 connected
+Client disconnect
+Player7 connected
+Client disconnect
+Player8 connected
+Client disconnect
+Error initialization clients streams:  Index: 0, Size: 0
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server internal error Address already in use: JVM_Bind
+Error initialization clients streams:  Index: 0, Size: 0
+Player3 connected
+Player4 connected
+Player5 connected
+Client disconnect
+Client disconnect
+Client disconnect
+Error initialization clients streams:  Index: 0, Size: 0
+Server started
+Connection wait...
+Player0 connected
+Player1 connected
+Player2 connected
+Client disconnect
+Client disconnect
+Client disconnect
+Error initialization clients streams:  Index: 0, Size: 0
+Server started
+Connection wait...
+Server started
+Connection wait...
+Player0 connected
+Player1 connected
+Player2 connected
+Client disconnect
+Client disconnect
+Client disconnect
+Error initialization clients streams:  Index: 0, Size: 0
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  Index: 0, Size: 0
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server internal error Address already in use: JVM_Bind
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Player4 connected
+Player5 connected
+Client disconnect
+Client disconnect
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Player1 connected
+Player2 connected
+Client disconnect
+Client disconnect
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Player6 connected
+Client disconnect
+Player7 connected
+Client disconnect
+Player8 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  java.lang.String cannot be cast to playermove.PlayerMove
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Player6 connected
+Client disconnect
+Player7 connected
+Client disconnect
+Player8 connected
+Client disconnect
+Error initialization clients streams:  null
+Player9 connected
+Client disconnect
+Player10 connected
+Client disconnect
+Player11 connected
+Client disconnect
+Error initialization clients streams:  null
+Player12 connected
+Client disconnect
+Player13 connected
+Client disconnect
+Player14 connected
+Client disconnect
+Error initialization clients streams:  null
+Player15 connected
+Client disconnect
+Player16 connected
+Client disconnect
+Player17 connected
+Client disconnect
+Error initialization clients streams:  null
+Player18 connected
+Client disconnect
+Player19 connected
+Client disconnect
+Player20 connected
+Client disconnect
+Error initialization clients streams:  null
+Player21 connected
+Client disconnect
+Player22 connected
+Client disconnect
+Player23 connected
+Client disconnect
+Error initialization clients streams:  null
+Player24 connected
+Client disconnect
+Player25 connected
+Client disconnect
+Player26 connected
+Client disconnect
+Error initialization clients streams:  null
+Player27 connected
+Client disconnect
+Player28 connected
+Client disconnect
+Player29 connected
+Client disconnect
+Error initialization clients streams:  null
+Player30 connected
+Client disconnect
+Player31 connected
+Client disconnect
+Player32 connected
+Client disconnect
+Error initialization clients streams:  null
+Player33 connected
+Client disconnect
+Player34 connected
+Client disconnect
+Player35 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Player6 connected
+Client disconnect
+Player7 connected
+Client disconnect
+Player8 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Player4 connected
+Player5 connected
+Client disconnect
+Client disconnect
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Client disconnect
+Error initialization clients streams:  null
+Player6 connected
+Client disconnect
+Player7 connected
+Client disconnect
+Player8 connected
+Client disconnect
+Error initialization clients streams:  null
+Player9 connected
+Client disconnect
+Player10 connected
+Client disconnect
+Player11 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Player6 connected
+Client disconnect
+Player7 connected
+Client disconnect
+Player8 connected
+Client disconnect
+Error initialization clients streams:  null
+Player9 connected
+Client disconnect
+Player10 connected
+Client disconnect
+Player11 connected
+Client disconnect
+Error initialization clients streams:  null
+Player12 connected
+Client disconnect
+Player13 connected
+Client disconnect
+Player14 connected
+Client disconnect
+Error initialization clients streams:  null
+Player15 connected
+Client disconnect
+Player16 connected
+Client disconnect
+Player17 connected
+Client disconnect
+Error initialization clients streams:  null
+Player18 connected
+Client disconnect
+Player19 connected
+Client disconnect
+Player20 connected
+Client disconnect
+Error initialization clients streams:  null
+Player21 connected
+Client disconnect
+Player22 connected
+Client disconnect
+Player23 connected
+Client disconnect
+Error initialization clients streams:  null
+Player24 connected
+Client disconnect
+Player25 connected
+Client disconnect
+Player26 connected
+Client disconnect
+Error initialization clients streams:  null
+Player27 connected
+Client disconnect
+Player28 connected
+Client disconnect
+Player29 connected
+Client disconnect
+Error initialization clients streams:  null
+Player30 connected
+Client disconnect
+Player31 connected
+Client disconnect
+Player32 connected
+Client disconnect
+Player33 connected
+Client disconnect
+Player34 connected
+Client disconnect
+Error initialization clients streams:  null
+Player35 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Player36 connected
+Client disconnect
+Player37 connected
+Client disconnect
+Player38 connected
+Client disconnect
+Error initialization clients streams:  null
+Player39 connected
+Client disconnect
+Player40 connected
+Client disconnect
+Error initialization clients streams:  null
+Player41 connected
+Client disconnect
+Player42 connected
+Client disconnect
+Player43 connected
+Client disconnect
+Error initialization clients streams:  null
+Player44 connected
+Client disconnect
+Player45 connected
+Client disconnect
+Player46 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Player6 connected
+Client disconnect
+Player7 connected
+Client disconnect
+Player8 connected
+Client disconnect
+Error initialization clients streams:  null
+Player9 connected
+Client disconnect
+Player10 connected
+Client disconnect
+Player11 connected
+Client disconnect
+Error initialization clients streams:  null
+Player12 connected
+Client disconnect
+Player13 connected
+Client disconnect
+Player14 connected
+Client disconnect
+Error initialization clients streams:  null
+Player15 connected
+Client disconnect
+Player16 connected
+Client disconnect
+Player17 connected
+Client disconnect
+Error initialization clients streams:  null
+Player18 connected
+Client disconnect
+Player19 connected
+Client disconnect
+Player20 connected
+Client disconnect
+Error initialization clients streams:  null
+Player21 connected
+Client disconnect
+Player22 connected
+Client disconnect
+Player23 connected
+Client disconnect
+Error initialization clients streams:  null
+Player24 connected
+Client disconnect
+Player25 connected
+Client disconnect
+Player26 connected
+Client disconnect
+Error initialization clients streams:  null
+Player27 connected
+Client disconnect
+Player28 connected
+Client disconnect
+Player29 connected
+Client disconnect
+Error initialization clients streams:  null
+Player30 connected
+Client disconnect
+Player31 connected
+Client disconnect
+Player32 connected
+Client disconnect
+Error initialization clients streams:  null
+Player33 connected
+Client disconnect
+Player34 connected
+Client disconnect
+Player35 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Player3 connected
+Client disconnect
+Error initialization clients streams:  null
+Server internal error Address already in use: JVM_Bind
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Player6 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Player1 connected
+Player2 connected
+Client disconnect
+Client disconnect
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Player6 connected
+Client disconnect
+Player7 connected
+Client disconnect
+Player8 connected
+Client disconnect
+Error initialization clients streams:  null
+Error initialization clients streams:  java.lang.String cannot be cast to playermove.PlayerMove
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Error initialization clients streams:  null
+Player5 connected
+Client disconnect
+Player6 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Player1 connected
+Player2 connected
+Client disconnect
+Client disconnect
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Player5 connected
+Client disconnect
+Player6 connected
+Client disconnect
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server internal error Address already in use: JVM_Bind
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Player6 connected
+Client disconnect
+Player7 connected
+Client disconnect
+Player8 connected
+Client disconnect
+Error initialization clients streams:  null
+Player9 connected
+Client disconnect
+Player10 connected
+Client disconnect
+Player11 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Player6 connected
+Client disconnect
+Error initialization clients streams:  null
+Player7 connected
+Client disconnect
+Player8 connected
+Client disconnect
+Player9 connected
+Client disconnect
+Error initialization clients streams:  null
+Player10 connected
+Client disconnect
+Player11 connected
+Client disconnect
+Player12 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server internal error Address already in use: JVM_Bind
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Player5 connected
+Client disconnect
+Client disconnect
+Error initialization clients streams:  null
+Player6 connected
+Client disconnect
+Player7 connected
+Client disconnect
+Player8 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server internal error Address already in use: JVM_Bind
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Player3 connected
+Client disconnect
+Error initialization clients streams:  null
+Player4 connected
+Client disconnect
+Player5 connected
+Player6 connected
+Player7 connected
+Player8 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server internal error null
+Client disconnect
+Server internal error null
+Client disconnect
+Server internal error null
+Client disconnect
+Player9 connected
+Client disconnect
+Player10 connected
+Player11 connected
+Server internal error null
+Client disconnect
+Server internal error null
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server internal error Address already in use: JVM_Bind
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Server internal error Address already in use: JVM_Bind
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Player6 connected
+Client disconnect
+Player7 connected
+Client disconnect
+Player8 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Error initialization clients streams:  null
+Player6 connected
+Client disconnect
+Player7 connected
+Client disconnect
+Player8 connected
+Client disconnect
+Player9 connected
+Client disconnect
+Player10 connected
+Client disconnect
+Player11 connected
+Client disconnect
+Error initialization clients streams:  null
+Error initialization clients streams:  null
+Player12 connected
+Client disconnect
+Player13 connected
+Client disconnect
+Player14 connected
+Client disconnect
+Player15 connected
+Client disconnect
+Player16 connected
+Client disconnect
+Player17 connected
+Client disconnect
+Error initialization clients streams:  null
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Player6 connected
+Client disconnect
+Player7 connected
+Client disconnect
+Player8 connected
+Client disconnect
+Error initialization clients streams:  null
+Player9 connected
+Client disconnect
+Player10 connected
+Client disconnect
+Player11 connected
+Client disconnect
+Player12 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Player6 connected
+Client disconnect
+Error initialization clients streams:  null
+Player7 connected
+Client disconnect
+Player8 connected
+Client disconnect
+Player9 connected
+Client disconnect
+Error initialization clients streams:  null
+Player10 connected
+Client disconnect
+Player11 connected
+Client disconnect
+Error initialization clients streams:  null
+Player12 connected
+Client disconnect
+Player13 connected
+Client disconnect
+Player14 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Player6 connected
+Client disconnect
+Player7 connected
+Client disconnect
+Player8 connected
+Client disconnect
+Player9 connected
+Client disconnect
+Player10 connected
+Client disconnect
+Player11 connected
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Player1 connected
+Player2 connected
+Client disconnect
+Client disconnect
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Player6 connected
+Client disconnect
+Player7 connected
+Player8 connected
+Client disconnect
+Client disconnect
+Error initialization clients streams:  null
+Player9 connected
+Client disconnect
+Player10 connected
+Client disconnect
+Player11 connected
+Client disconnect
+Error initialization clients streams:  null
+Player12 connected
+Client disconnect
+Player13 connected
+Client disconnect
+Player14 connected
+Client disconnect
+Error initialization clients streams:  null
+Player15 connected
+Client disconnect
+Player16 connected
+Client disconnect
+Player17 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Player18 connected
+Client disconnect
+Player19 connected
+Client disconnect
+Error initialization clients streams:  null
+Player20 connected
+Client disconnect
+Player21 connected
+Client disconnect
+Error initialization clients streams:  null
+Player22 connected
+Client disconnect
+Player23 connected
+Client disconnect
+Player24 connected
+Client disconnect
+Error initialization clients streams:  null
+Player25 connected
+Client disconnect
+Player26 connected
+Client disconnect
+Player27 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Error initialization clients streams:  null
+Player5 connected
+Client disconnect
+Player6 connected
+Client disconnect
+Error initialization clients streams:  null
+Player7 connected
+Player8 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Player9 connected
+Client disconnect
+Player10 connected
+Player11 connected
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server internal error null
+Client disconnect
+Server started
+Connection wait...
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Player6 connected
+Client disconnect
+Player7 connected
+Client disconnect
+Player8 connected
+Client disconnect
+Player9 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Server started
+Connection wait...
+Player0 connected
+Client disconnect
+Player1 connected
+Client disconnect
+Player2 connected
+Client disconnect
+Player3 connected
+Client disconnect
+Player4 connected
+Client disconnect
+Player5 connected
+Client disconnect
+Error initialization clients streams:  null
+Error initialization clients streams:  null
+Player6 connected
+Client disconnect
+Player7 connected
+Client disconnect
+Player8 connected
+Client disconnect
+Error initialization clients streams:  null
+Player9 connected
+Client disconnect
+Player10 connected
+Client disconnect
+Player11 connected
+Client disconnect
+Error initialization clients streams:  null
+Player12 connected
+Client disconnect
+Player13 connected
+Player14 connected
+Client disconnect
+Player15 connected
+Player16 connected
+Client disconnect
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  null
+Player17 connected
+Client disconnect
+Player18 connected
+Player19 connected
+Player20 connected
+Client disconnect
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  null
+Player21 connected
+Player22 connected
+Player23 connected
+Player24 connected
+Client disconnect
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Server started
+Connection wait...
+Player0 connected
+Player1 connected
+Player2 connected
+Player3 connected
+Client disconnect
+Client disconnect
+Client disconnect
+Error initialization clients streams:  Connection reset
+Client disconnect
+Error initialization clients streams:  null
+Server started
+Connection wait...
+Server started
+Connection wait...
+Server started
+Connection wait...
+Server started
+Connection wait...
+Server started
+Connection wait...
+Server started
+Connection wait...
+Server started
+Connection wait...
+Server started
+Connection wait...
